@@ -1,5 +1,3 @@
-# qamerps-frontend4
-
 ## Project setup
 ```
 yarn install
